@@ -17,4 +17,3 @@ Melissa Gave Miró Quesada - GBG Lima| Nuevas tecnologias en google io 17 (tipo 
 Dante Gomez - GDG Juliaca | Usando Google Cloud Platform  | x | x
 Mario Inga - Docker Lima | Orchestration  of Containers with Docker Compose   | https://www.slideshare.net/mario21ic/gdg-lima-docker-compose | https://www.slideshare.net/mario21ic/gdg-lima-docker-compose
 Victoria Ubaldo - WTM Lima | Sitios Web para Móviles  | https://docs.google.com/presentation/d/1ZR9_j7SXLNtCk1BpzQ6m1ejpcc9eC5VdzXeL8Zaf4Cw/edit?usp=sharing | https://docs.google.com/presentation/d/1ZR9_j7SXLNtCk1BpzQ6m1ejpcc9eC5VdzXeL8Zaf4Cw/edit?usp=sharing
-Dante Gomez - GDG Juliaca | Usando Google Cloud Platform  | x | x
